@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import pickle
+import sklearn
 
 st.set_page_config(layout='wide')
 
